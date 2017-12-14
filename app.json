@@ -1,0 +1,20 @@
+{
+  "name": "nodepratic",
+  "description": "cemk",
+  "scripts": {
+    "postdeploy": "cemk",
+    "pr-predestroy": "cemk"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/saduncem/nodepratic"
+    }
+  ]
+}
