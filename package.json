@@ -1,0 +1,8 @@
+{
+    "name": "cemk",
+    "description": "a really cool app by Cemk",
+    "version": "1.0.0",
+    "engines": {
+        "node": "9.3.0"
+    }
+}
